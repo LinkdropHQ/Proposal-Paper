@@ -18,7 +18,7 @@
 
 ## Receiver Flow
 
-![](scheme_proposal-cabc940c-f7f1-4cee-a7af-ff46fd9f1cd1.png)
+![](scheme_1.png)
 
 1. Sender shares claim link with the receiver;
 2. Receiver opens the link in the default browser (or mobile app if it’s a deep link);
