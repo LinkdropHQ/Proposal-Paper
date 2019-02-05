@@ -88,5 +88,5 @@ In order to transfer via link sender can use:
 
 - [Linkdrop.org](https://linkdrop.org)
 - [Github](https://github.com/LinkdropProtocol)
-- [Telegram](https://t.me/LinkdropProtocol)
-- [Twitter](https://twitter.com/LinkdropOrg)
+- [Telegram](https://t.me/eth2io)
+- [Twitter](https://twitter.com/eth2io)
