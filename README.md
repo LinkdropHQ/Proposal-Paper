@@ -1,6 +1,6 @@
 # Linkdrop Protocol Proposal Paper
 
-29 January 2019 / Author: Mikhail Dobrokhvalov / [https://linkdrop.org](https://linkdrop.org)
+29 January 2019 / Author: Mikhail Dobrokhvalov, Artiom Ignatyev, Gustav Friis / [https://linkdrop.org](https://linkdrop.org)
 
 ---
 
